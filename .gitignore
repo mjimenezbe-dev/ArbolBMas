@@ -1,0 +1,10 @@
+# Compilados
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iws
+
+# Respaldos de editores
+*~
